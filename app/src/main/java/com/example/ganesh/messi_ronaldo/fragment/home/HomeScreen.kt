@@ -1,4 +1,4 @@
-package com.example.ganesh.messi_ronaldo.fragment.home.screen
+package com.example.ganesh.messi_ronaldo.fragment.home
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.fillMaxWidth

@@ -11,7 +11,6 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.example.ganesh.messi_ronaldo.R
-import com.example.ganesh.messi_ronaldo.fragment.detail.screen.DetailScreen
 import com.example.ganesh.messi_ronaldo.ui.component.ErrorButton
 import com.example.ganesh.messi_ronaldo.ui.component.LoadingCircular
 import com.example.ganesh.messi_ronaldo.ui.theme.MessiRonaldoTheme

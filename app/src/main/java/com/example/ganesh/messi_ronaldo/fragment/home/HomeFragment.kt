@@ -11,7 +11,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.paging.compose.collectAsLazyPagingItems
-import com.example.ganesh.messi_ronaldo.fragment.home.screen.HomeScreen
 import com.example.ganesh.messi_ronaldo.ui.theme.MessiRonaldoTheme
 import com.example.ganesh.messi_ronaldo.viewmodel.HomeViewModel
 

@@ -1,4 +1,4 @@
-package com.example.ganesh.messi_ronaldo.fragment.detail.screen
+package com.example.ganesh.messi_ronaldo.fragment.detail
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth
